@@ -1,0 +1,1 @@
+console.log("hello this is page1.js");
